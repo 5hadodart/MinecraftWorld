@@ -115,12 +115,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_lodestone": "2025-04-06 16:22:11 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-06 16:22:30 -0400"
@@ -471,7 +465,8 @@
       "rotten_flesh": "2025-04-06 16:33:01 -0400",
       "cooked_beef": "2025-04-06 16:46:09 -0400",
       "melon_slice": "2025-04-19 00:06:08 -0400",
-      "porkchop": "2025-04-06 16:41:03 -0400"
+      "porkchop": "2025-04-06 16:41:03 -0400",
+      "pumpkin_pie": "2025-04-26 17:44:53 -0400"
     },
     "done": false
   },
@@ -3353,5 +3348,5 @@
     },
     "done": true
   },
-  "DataVersion": 4325
+  "DataVersion": 4189
 }
